@@ -1,3 +1,3 @@
 # OpenComputers-Scripts
 
-Just my (unsorted collection of scripts for the Minecraft mod ComputerCraft / OpenComputer
+Just my (unsorted) collection of scripts for the Minecraft mod ComputerCraft / OpenComputers

@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+.attach_pid*
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Java
+# We have to check them in for now, so the build works. We will refactor this in the future
+# */src/generated/
